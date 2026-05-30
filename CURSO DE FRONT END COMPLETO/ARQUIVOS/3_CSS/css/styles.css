@@ -62,3 +62,11 @@ h2 {
 .simple-hex-2 {
     color: #a5f;
 }
+
+/* RGB */
+.rgb {
+    color: rgb(255, 0, 0);
+}
+.mixed-rgb {
+    color: rgb(199, 21, 47);
+}
