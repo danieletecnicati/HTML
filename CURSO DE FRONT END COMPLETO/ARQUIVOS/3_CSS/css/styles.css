@@ -14,3 +14,10 @@ p {
 /* Algum comentário */
 /* mais um comentário */
 /* Terceiro comentário */
+
+/* classes */
+.paragraph {
+    background-color: #000;
+    color: aqua;
+    padding: 5px; 
+}
