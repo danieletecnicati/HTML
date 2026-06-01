@@ -279,3 +279,8 @@ background-image: url("../img/nature.jpg");
 .lower {
     text-transform: lowercase;
 }
+
+/* Letter Spacing */
+.spacing {
+    letter-spacing: 5px;
+}
