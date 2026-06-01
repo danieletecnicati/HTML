@@ -284,3 +284,20 @@ background-image: url("../img/nature.jpg");
 .spacing {
     letter-spacing: 5px;
 }
+
+/* Fontes */
+.serif {
+    font-family: Georgia, serif;
+}
+.sans-serif {
+    font-family: helvetica, Arial, sans-serif;
+}
+.monospace {
+    font-family: Courier New, monospace;
+}
+.cursive {
+    font-family: cursive;
+}
+.fantasy {
+    font-family: fantasy;
+}
