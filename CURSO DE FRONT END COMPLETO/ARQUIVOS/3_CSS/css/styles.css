@@ -323,3 +323,15 @@ background-image: url("../img/nature.jpg");
 .bolder {
     font-weight: 900;
 }
+
+/* Font Size */
+.small {
+    font-size: 6px;
+    background-color: magenta;
+    color: #fff;
+}
+.big {
+    font-size: 78px;
+    background-color: magenta;
+    color: #fff;
+}
