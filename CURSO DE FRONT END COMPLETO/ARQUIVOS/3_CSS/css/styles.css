@@ -224,3 +224,18 @@ background-image: url("../img/nature.jpg");
     color:blue;
     padding: 15px;
 }
+
+/* Margem */
+.margin {
+    margin: 10px;
+    background-color: #222;
+}
+.margin-top {
+    margin-top: 50px;
+    background-color: #444;
+    padding: 10px;
+}
+.margin-shorthand {
+    background-color: #666;
+    margin: 5px 10px 15px 20px; /* top right bottom left */
+}
