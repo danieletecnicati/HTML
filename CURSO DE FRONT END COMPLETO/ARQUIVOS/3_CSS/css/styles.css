@@ -197,3 +197,15 @@ background-image: url("../img/nature.jpg");
     border: 2px dotted #931;
     padding: 25px;
 }
+
+/* Borda individual */
+.border-left {
+    border-left: 3px solid red;
+    background-color: #222;
+    padding: 25px;
+}
+.border-bottom {
+    border-bottom: 5px double #399;
+    background-color: #222;
+    padding: 20px;
+}
