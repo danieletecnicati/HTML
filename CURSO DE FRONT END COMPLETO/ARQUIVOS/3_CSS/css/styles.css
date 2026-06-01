@@ -309,3 +309,17 @@ background-image: url("../img/nature.jpg");
 .oblique {
     font-style: oblique;
 }
+
+/* Font Weight */
+.thin, .bold, .bolder {
+    font-family: Helvetica, Arial, sans-serif;
+}
+.thin {
+    font-weight: 100;
+}
+.bold {
+    font-weight: 600;
+}
+.bolder {
+    font-weight: 900;
+}
